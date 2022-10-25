@@ -12,7 +12,7 @@ namespace MazePathFinder
     public class Program
     {
         public static String[] method = new string[] { "U", "D", "L", "R" };
-        public static int timeout = 2;
+        public static int timeout = 30;
         
         static void Main(string[] args)
         {
